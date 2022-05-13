@@ -1,0 +1,21 @@
+.name{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+
+}
+.species{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+    color: white;
+}
+.infos-gray{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+    color: dimgray;
+}
+
+.response-infos{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+    color: white;
+    font-size: 18px;
+}

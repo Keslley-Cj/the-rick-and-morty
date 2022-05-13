@@ -1,0 +1,10 @@
+.label{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 140px;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+    align-content: center;
+    padding-top: 90px;
+    font-weight: bold;
+}

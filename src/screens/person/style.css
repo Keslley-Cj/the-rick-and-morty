@@ -1,0 +1,35 @@
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 0;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.label{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 140px;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+    align-content: center;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.info{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.title{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    alignment: center;
+}
